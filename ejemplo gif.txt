@@ -6,7 +6,7 @@ Comprender los elementos básicos que conforman un diagrama de flujo y aprender 
 Los diagramas de flujo son una herramienta fundamental en programación porque permiten visualizar la lógica de un algoritmo antes de escribir código. Esta tarea les ayudará a:
 
 Desarrollar pensamiento lógico.
-Entender cómo se estructura un proceso.
+Entender cómo se estructura un proceso real 
 Prepararse para diseñar algoritmos más complejos.
 Instrucciones Detalladas
 1. Investigación Teórica
@@ -14,15 +14,16 @@ Busca información sobre todas las figuras utilizadas en diagramas de flujo.
 Asegúrate de incluir las siguientes figuras básicas:
 Óvalo (Inicio / Fin)
 Rectángulo (Proceso)
-Rombo (Decisión)
+Rombo figura(Decisión)
 Flecha (Conector / Dirección del flujo)
 Paralelogramo (Entrada / Salida)
 Para cada figura, responde:
 ¿Cómo se llama?
 ¿Cuál es su función dentro del diagrama?
-¿Qué ejemplos de uso tiene?
+¿Qué ejemplos de uso tiene el diagrama de flujo?
 2. Descripción de Uso
 Explica cuándo y por qué se utiliza cada figura.
 Ejemplo:
 Rombo: Se usa para representar una decisión que puede tener dos o más caminos (Sí / No).
-Paralelogramo: Indica operaciones de entrada (leer datos) o salida (mostrar resultados).
+
+ Agregue algo nuevo
